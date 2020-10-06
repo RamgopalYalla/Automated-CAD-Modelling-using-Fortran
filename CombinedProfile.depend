@@ -1,0 +1,323 @@
+# depslib dependency file v1.0
+1527261316 source:e:\latex\video\combinedprofile\combinedprofile\src\base.cpp
+	"base.h"
+	<stdio.h>
+	<string.h>
+
+1527261316 e:\latex\video\combinedprofile\combinedprofile\include\base.h
+
+1527261316 source:e:\latex\video\combinedprofile\combinedprofile\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"node.h"
+	"element.h"
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<math.h>
+
+1527261316 e:\latex\video\combinedprofile\combinedprofile\include\combinedprofile.h
+	"profile.h"
+
+1527261316 e:\latex\video\combinedprofile\combinedprofile\include\profile.h
+	"Base.h"
+
+1527261316 e:\latex\video\combinedprofile\combinedprofile\include\node.h
+	"base.h"
+
+1527261316 e:\latex\video\combinedprofile\combinedprofile\include\element.h
+	"base.h"
+
+1527261316 source:e:\latex\video\combinedprofile\combinedprofile\src\element.cpp
+	"element.h"
+	<stdio.h>
+	<memory.h>
+	<math.h>
+	"node.h"
+
+1527261316 source:e:\latex\video\combinedprofile\combinedprofile\src\node.cpp
+	"node.h"
+	<stdio.h>
+
+1527261316 source:e:\latex\video\combinedprofile\combinedprofile\src\profile.cpp
+	"profile.h"
+	"node.h"
+	"element.h"
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1527263472 source:f:\clfe_kummari anil kumar_ss18_1\combinedprofile\profiles.cpp
+	"base.h"
+	"node.h"
+	"element.h"
+	"profile.h"
+	"CombinedProfile.h"
+	<stdio.h>
+
+1527261316 f:\clfe_kummari anil kumar_ss18_1\combinedprofile\include\base.h
+
+1527261316 f:\clfe_kummari anil kumar_ss18_1\combinedprofile\include\node.h
+	"base.h"
+
+1527261316 f:\clfe_kummari anil kumar_ss18_1\combinedprofile\include\element.h
+	"base.h"
+
+1527261316 f:\clfe_kummari anil kumar_ss18_1\combinedprofile\include\profile.h
+	"Base.h"
+
+1527261316 f:\clfe_kummari anil kumar_ss18_1\combinedprofile\include\combinedprofile.h
+	"profile.h"
+
+1527261316 source:f:\clfe_kummari anil kumar_ss18_1\combinedprofile\src\base.cpp
+	"base.h"
+	<stdio.h>
+	<string.h>
+
+1527261316 source:f:\clfe_kummari anil kumar_ss18_1\combinedprofile\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"node.h"
+	"element.h"
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<math.h>
+
+1527261316 source:f:\clfe_kummari anil kumar_ss18_1\combinedprofile\src\element.cpp
+	"element.h"
+	<stdio.h>
+	<memory.h>
+	<math.h>
+	"node.h"
+
+1527261316 source:f:\clfe_kummari anil kumar_ss18_1\combinedprofile\src\node.cpp
+	"node.h"
+	<stdio.h>
+
+1527261316 source:f:\clfe_kummari anil kumar_ss18_1\combinedprofile\src\profile.cpp
+	"profile.h"
+	"node.h"
+	"element.h"
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1527464082 source:e:\clfe\clfe_kummari anil kumar_ss18_1\combinedprofile\profiles.cpp
+	"base.h"
+	"node.h"
+	"element.h"
+	"profile.h"
+	"CombinedProfile.h"
+	<stdio.h>
+
+1527261316 e:\clfe\clfe_kummari anil kumar_ss18_1\combinedprofile\include\base.h
+
+1527261316 e:\clfe\clfe_kummari anil kumar_ss18_1\combinedprofile\include\node.h
+	"base.h"
+
+1527261316 e:\clfe\clfe_kummari anil kumar_ss18_1\combinedprofile\include\element.h
+	"base.h"
+
+1527261316 e:\clfe\clfe_kummari anil kumar_ss18_1\combinedprofile\include\profile.h
+	"Base.h"
+
+1527261316 e:\clfe\clfe_kummari anil kumar_ss18_1\combinedprofile\include\combinedprofile.h
+	"profile.h"
+
+1527261316 source:e:\clfe\clfe_kummari anil kumar_ss18_1\combinedprofile\src\base.cpp
+	"base.h"
+	<stdio.h>
+	<string.h>
+
+1527261316 source:e:\clfe\clfe_kummari anil kumar_ss18_1\combinedprofile\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"node.h"
+	"element.h"
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<math.h>
+
+1527261316 source:e:\clfe\clfe_kummari anil kumar_ss18_1\combinedprofile\src\element.cpp
+	"element.h"
+	<stdio.h>
+	<memory.h>
+	<math.h>
+	"node.h"
+
+1527261316 source:e:\clfe\clfe_kummari anil kumar_ss18_1\combinedprofile\src\node.cpp
+	"node.h"
+	<stdio.h>
+
+1527261316 source:e:\clfe\clfe_kummari anil kumar_ss18_1\combinedprofile\src\profile.cpp
+	"profile.h"
+	"node.h"
+	"element.h"
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1558964332 source:c:\users\ramgo\desktop\clfe projects\final\project 3\profiles.cpp
+	"base.h"
+	"node.h"
+	"element.h"
+	"profile.h"
+	"CombinedProfile.h"
+	<stdio.h>
+
+1527261316 c:\users\ramgo\desktop\clfe projects\final\project 3\include\base.h
+
+1527261316 c:\users\ramgo\desktop\clfe projects\final\project 3\include\node.h
+	"base.h"
+
+1527261316 c:\users\ramgo\desktop\clfe projects\final\project 3\include\element.h
+	"base.h"
+
+1527261316 c:\users\ramgo\desktop\clfe projects\final\project 3\include\profile.h
+	"Base.h"
+
+1558401780 c:\users\ramgo\desktop\clfe projects\final\project 3\include\combinedprofile.h
+	"profile.h"
+
+1558401780 source:c:\users\ramgo\desktop\clfe projects\final\project 3\src\base.cpp
+	"base.h"
+	<stdio.h>
+	<string.h>
+
+1558921845 source:c:\users\ramgo\desktop\clfe projects\final\project 3\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"node.h"
+	"element.h"
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<math.h>
+
+1527261316 source:c:\users\ramgo\desktop\clfe projects\final\project 3\src\element.cpp
+	"element.h"
+	<stdio.h>
+	<memory.h>
+	<math.h>
+	"node.h"
+
+1527261316 source:c:\users\ramgo\desktop\clfe projects\final\project 3\src\node.cpp
+	"node.h"
+	<stdio.h>
+
+1527261316 source:c:\users\ramgo\desktop\clfe projects\final\project 3\src\profile.cpp
+	"profile.h"
+	"node.h"
+	"element.h"
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1561297889 source:c:\users\ramgo\desktop\clfe-ss19-yalla-ramgopal-03040034-1\project 3\profiles.cpp
+	"base.h"
+	"node.h"
+	"element.h"
+	"profile.h"
+	"CombinedProfile.h"
+	<stdio.h>
+
+1559318704 c:\users\ramgo\desktop\clfe-ss19-yalla-ramgopal-03040034-1\project 3\include\base.h
+
+1559318704 c:\users\ramgo\desktop\clfe-ss19-yalla-ramgopal-03040034-1\project 3\include\node.h
+	"base.h"
+
+1559319989 c:\users\ramgo\desktop\clfe-ss19-yalla-ramgopal-03040034-1\project 3\include\element.h
+	"base.h"
+
+1559319490 c:\users\ramgo\desktop\clfe-ss19-yalla-ramgopal-03040034-1\project 3\include\profile.h
+	"Base.h"
+
+1559319613 c:\users\ramgo\desktop\clfe-ss19-yalla-ramgopal-03040034-1\project 3\include\combinedprofile.h
+	"profile.h"
+
+1559319159 source:c:\users\ramgo\desktop\clfe-ss19-yalla-ramgopal-03040034-1\project 3\src\base.cpp
+	"base.h"
+	<stdio.h>
+	<string.h>
+
+1559322993 source:c:\users\ramgo\desktop\clfe-ss19-yalla-ramgopal-03040034-1\project 3\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"node.h"
+	"element.h"
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<math.h>
+
+1559319217 source:c:\users\ramgo\desktop\clfe-ss19-yalla-ramgopal-03040034-1\project 3\src\element.cpp
+	"element.h"
+	<stdio.h>
+	<memory.h>
+	<math.h>
+	"node.h"
+
+1559318704 source:c:\users\ramgo\desktop\clfe-ss19-yalla-ramgopal-03040034-1\project 3\src\node.cpp
+	"node.h"
+	<stdio.h>
+
+1559318704 source:c:\users\ramgo\desktop\clfe-ss19-yalla-ramgopal-03040034-1\project 3\src\profile.cpp
+	"profile.h"
+	"node.h"
+	"element.h"
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1559319159 source:c:\users\ramgo\desktop\clfe all\clfe-ss19-yalla-ramgopal-03040034-1\project 3\src\base.cpp
+	"base.h"
+	<stdio.h>
+	<string.h>
+
+1559318704 c:\users\ramgo\desktop\clfe all\clfe-ss19-yalla-ramgopal-03040034-1\project 3\include\base.h
+
+1564933955 source:c:\users\ramgo\desktop\clfe all\clfe-ss19-yalla-ramgopal-03040034-1\project 3\profiles.cpp
+	"base.h"
+	"node.h"
+	"element.h"
+	"profile.h"
+	"CombinedProfile.h"
+	<stdio.h>
+
+1564933701 c:\users\ramgo\desktop\clfe all\clfe-ss19-yalla-ramgopal-03040034-1\project 3\include\node.h
+	"base.h"
+
+1564933701 c:\users\ramgo\desktop\clfe all\clfe-ss19-yalla-ramgopal-03040034-1\project 3\include\element.h
+	"base.h"
+
+1559319490 c:\users\ramgo\desktop\clfe all\clfe-ss19-yalla-ramgopal-03040034-1\project 3\include\profile.h
+	"Base.h"
+
+1559319613 c:\users\ramgo\desktop\clfe all\clfe-ss19-yalla-ramgopal-03040034-1\project 3\include\combinedprofile.h
+	"profile.h"
+
+1564933701 source:c:\users\ramgo\desktop\clfe all\clfe-ss19-yalla-ramgopal-03040034-1\project 3\src\element.cpp
+	"element.h"
+	<stdio.h>
+	<memory.h>
+	<math.h>
+	"node.h"
+
+1564933701 source:c:\users\ramgo\desktop\clfe all\clfe-ss19-yalla-ramgopal-03040034-1\project 3\src\node.cpp
+	"node.h"
+	<stdio.h>
+
+1564933701 source:c:\users\ramgo\desktop\clfe all\clfe-ss19-yalla-ramgopal-03040034-1\project 3\src\profile.cpp
+	"profile.h"
+	"node.h"
+	"element.h"
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1564933815 source:c:\users\ramgo\desktop\clfe all\clfe-ss19-yalla-ramgopal-03040034-1\project 3\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"node.h"
+	"element.h"
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<math.h>
+
